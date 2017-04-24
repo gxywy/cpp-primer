@@ -1,2 +1,3 @@
-# CppPrimer
-cpp-primer
+# C++ Primer 5th 练习
+自己做的课后习题，可能不是最优解，甚至代码风格很差或者有严重错误
+只是借Github来敦促自己完成学习
