@@ -7,7 +7,7 @@ int main()
 	string s;
 	cin >> s;
 
-	for (auto &n : s)
+	for (auto &n : s) //char &n : s 也是对的
 		n = 'X';
 	
 	cout << s << endl;
