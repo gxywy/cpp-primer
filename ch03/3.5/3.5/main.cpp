@@ -5,7 +5,7 @@ using std::cin; using std::cout; using std::endl; using std::string;
 int main()
 {
 	string s, total;
-	while (getline(cin, s))
+	while (cin >> s)
 	{
 		if (s.empty())
 			break;
