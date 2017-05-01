@@ -19,15 +19,15 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
+    <ClInclude Include="Sales_data.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Sales_data.h" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{11f45d05-200f-4137-80b2-a4a1e0939967}</ProjectGuid>
-    <RootNamespace>_2_63</RootNamespace>
+    <ProjectGuid>{0ce9d413-42f1-43e3-84c6-6f6b556d3b29}</ProjectGuid>
+    <RootNamespace>_2_42</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
